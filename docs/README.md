@@ -4,7 +4,7 @@ heroImage: /avatar.jpeg
 heroText: Zzh 的笔记本
 tagline: 将所学的知识记录下来，方便回顾
 actionText: 开始阅读 →
-actionLink: $themeConfig.nav[0].link
+actionLink: /articles/node.js/
 features:
   - title: 个人信息
     details: 目前在浙江宁波，做前端开发的工作。
