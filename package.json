@@ -1,0 +1,17 @@
+{
+  "name": "my-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nbhaohao/my-notes.git",
+  "author": "zhangzh <zhangzh@cnlemon.net>",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.0.0-rc.1",
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "vuepress": "^1.2.0"
+  }
+}
