@@ -1,4 +1,10 @@
-const sidebarArray = [{ title: "Node.js", children: ["/articles/node.js/"] }];
+const sidebarArray = [
+  { title: "Node.js", children: ["/articles/node.js/"] },
+  {
+    title: "Ruby",
+    children: ["/articles/ruby/"]
+  }
+];
 
 module.exports = {
   title: "Zzh 的笔记本",
