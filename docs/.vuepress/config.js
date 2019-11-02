@@ -3,6 +3,10 @@ const sidebarArray = [
   {
     title: "Ruby",
     children: ["/articles/ruby/"]
+  },
+  {
+    title: "C",
+    children: ["/articles/c/"]
   }
 ];
 
