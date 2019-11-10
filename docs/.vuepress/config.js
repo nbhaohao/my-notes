@@ -6,7 +6,7 @@ const sidebarArray = [
   },
   {
     title: "C",
-    children: ["/articles/c/", "/articles/c/01.md"]
+    children: ["/articles/c/", "/articles/c/01.md", "/articles/c/02.md"]
   }
 ];
 
