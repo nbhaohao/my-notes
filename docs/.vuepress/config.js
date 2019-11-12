@@ -7,6 +7,10 @@ const sidebarArray = [
   {
     title: "C",
     children: ["/articles/c/", "/articles/c/01.md", "/articles/c/02.md"]
+  },
+  {
+    title: "计算机基础",
+    children: ["/articles/cs/"]
   }
 ];
 
